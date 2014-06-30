@@ -1,0 +1,1 @@
+window.alert('Une alerte AHHHH!');
